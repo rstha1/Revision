@@ -5,8 +5,8 @@ import java.util.ArrayList;
 public class AddNumFromOneListToOther {
     public static void main(String[] args) {
 
-        ArrayList<Integer> list1 = new ArrayList<Integer>();
-        ArrayList<Integer> list2 = new ArrayList<Integer>();
+        ArrayList<Integer> list1 = new ArrayList<>();
+        ArrayList<Integer> list2 = new ArrayList<>();
 
         list1.add(1);
         list1.add(2);
