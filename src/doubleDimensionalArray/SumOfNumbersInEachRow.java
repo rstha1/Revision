@@ -1,4 +1,4 @@
-package DoubleDimensionalArray;
+package doubleDimensionalArray;
 
 public class SumOfNumbersInEachRow {
     public static void main(String[] args) {

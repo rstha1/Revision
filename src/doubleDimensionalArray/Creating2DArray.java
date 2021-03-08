@@ -1,4 +1,4 @@
-package DoubleDimensionalArray;
+package doubleDimensionalArray;
 
 import java.util.Scanner;
 

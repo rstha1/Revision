@@ -1,7 +1,6 @@
-package ArrayList;
+package arrayList;
 
 import java.util.ArrayList;
-import java.util.Collections;
 
 public class MinAndMaxNumInArrayList {
 
